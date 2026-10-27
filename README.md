@@ -2,7 +2,7 @@
 
 A dashboard and analysis of unemployment and labor force participation in all 50 US states (Jan 2020 to Dec 2021), with an AI assistant that answers plain-English questions from the data.
 
-Live demo: add your Streamlit link here
+Live demo: https://econsight-ai-8qvbjne6judipvf8eb7pwt.streamlit.app/
 
 A falling unemployment rate can mean people found jobs, or that they stopped looking for work. So unemployment alone can make a recovery look better than it was.
 
