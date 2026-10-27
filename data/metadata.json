@@ -1,0 +1,6 @@
+{
+  "retrieved": "2026-10-26",
+  "unemployment_series": "<state abbreviation>UR",
+  "participation_series": "LBSSA<state fips>",
+  "last_observation": "2026-09-01"
+}
